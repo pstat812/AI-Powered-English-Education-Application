@@ -1,1 +1,0 @@
-__d((function(g,r,i,a,m,e,d){m.exports={polyfill:{installAll:function(){}},Player:function(){return{attach:function(){},addEventListener:function(){},load:function(){return Promise.resolve()},unload:function(){return Promise.resolve()}}}},m.exports.Player.isBrowserSupported=function(){return!0}}),1912,[]);
