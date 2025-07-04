@@ -9,9 +9,9 @@ The AI-Powered English Education Application is a comprehensive React Native app
 ## Features and Functionality
 
 ### 🤖 **AI Chat Interface**
-- **Intelligent Conversation Practice**: LLM-powered chatbot for natural English conversation
+- **Intelligent Conversation Practice**: LLM-powered chatbot for natural English conversation practice
 - **Real-time Grammar Correction**: Automatic identification and correction of grammar mistakes with visual feedback
-- **CEFR-Adaptive Responses**: AI adjusts language complexity based on user's proficiency level (A1-C2)
+- **CEFR-Adaptive Responses**: AI adjusts language complexity based on the user's proficiency level (A1-C2)
 - **Voice Integration**: Speech-to-text input and text-to-speech output for pronunciation practice
 
 ### 🌐 **Smart Translation & Language Tools**
@@ -23,27 +23,23 @@ The AI-Powered English Education Application is a comprehensive React Native app
 ### 📚 **Intelligent Training Exercises**
 - **Grammar Modules**: AI-guided practice for pronouns, past tense, modal verbs, prepositions, and more
 - **Adaptive Difficulty**: LLM adjusts exercise complexity based on user performance and CEFR level
-- **Story Generation**: AI-powered story creation from image inputs for creative writing practice
+- **Interactive Exercise**: AI-generated image for "Tell a story with an image" practice
 - **Question Formation**: Interactive exercises for mastering interrogative phrases and structures
-
-### 📖 **AI-Curated Reading Materials**
-- **Dynamic Content**: LLM-generated reading passages on autobiography, technology, history, science, environment, and world cultures
-- **Comprehension Analysis**: AI-powered reading comprehension questions and feedback
-- **Vocabulary Enhancement**: Intelligent word highlighting and definitions within context
-- **Progressive Difficulty**: Content automatically adapted to user's reading level
 
 ### 🗣️ **Advanced Speaking Practice**
 - **Pronunciation Assessment**: AI-powered pronunciation feedback and scoring
-- **Dialogue Completion**: Interactive conversations with AI for natural speaking practice
 - **Speech Recognition**: Real-time voice input processing with accuracy analysis
-- **Accent Training**: Targeted pronunciation improvement suggestions
+  
+### 📖 **AI-Curated Reading Materials**
+- **Dynamic Content**: LLM-generated reading passages on autobiography, technology, history, science, environment, and world cultures
+- **Vocabulary Enhancement**: Intelligent word highlighting and definitions within context
+- **Progressive Difficulty**: Content automatically adapted to user's reading level
+- **Interactive Text Tools**: AI-powered text selection tools that allow users to translate, summarize, speak aloud, and explain selected passages with contextual understanding
 
-### ✍️ **AI-Enhanced Learning Tools**
+### ✍️ **AI-Enhanced Assessment Tools**
 - **Handwriting Recognition**: Digital handwriting practice with AI feedback
-- **Listening Comprehension**: AI-generated audio content with comprehension exercises
-- **Personalized Learning Path**: LLM creates customized study plans based on individual progress
-- **Smart Progress Tracking**: AI analyzes learning patterns and suggests optimization strategies
-
+- **Detailed Performance Analysis**: Comprehensive AI-generated feedback covering grammar mistakes, sentence structure, vocabulary usage, coherence, and writing style improvements
+  
 ## Technology Stack
 - **Frontend Framework**: React Native with Expo
 - **AI Integration**: OpenAI GPT-4, DeepSeek
@@ -51,7 +47,6 @@ The AI-Powered English Education Application is a comprehensive React Native app
 - **Speech-to-Text/Text-to-Speech**: Azure AI Speech
 - **UI Components**: UI Kitten, React native Paper
 - **Storage**: AsyncStorage for offline data persistence
-- **Development Tools**: TypeScript
 
 <br>
 
